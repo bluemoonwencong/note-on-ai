@@ -1,3 +1,13 @@
+# my
+commondata/
+*.tar.gz
+*.zip
+*.png
+*.jpg
+*.h5
+*.pth
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
